@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Code-Institute-Solutions/TheCommandLineInterface) 
+
 # The Command-Line Interface
 
 The repo contains the solution code for the *The Command-Line Interface* lesson.
